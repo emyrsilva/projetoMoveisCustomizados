@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Este projeto é layout de um website simples que oferece serviços de decoração de interiores.
 
-[Visite o projeto online] ()
+[Visite o projeto online] (https://emyrsilva.github.io/projetoMoveisCustomizados/)
 
 ## :memo: Licença
 
